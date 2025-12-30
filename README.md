@@ -443,11 +443,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
 
-**Alisha Hassan**
-- LinkedIn: [linkedin.com/in/alisha-hassan-650782356](https://www.linkedin.com/in/alisha-hassan-650782356)
-- GitHub: [@ialisha64](https://github.com/ialisha64)
 
 ---
 
@@ -460,23 +456,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📖 Citation
 
-If you use this project in your research or work, please cite:
-
-```bibtex
-@misc{salary_prediction_2025,
-  author = {Alisha Hassan},
-  title = {Advanced Salary Prediction System 2025},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/ialisha64/salary-prediction-2025}
-}
-```
-
----
-
-<div align="center">
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
